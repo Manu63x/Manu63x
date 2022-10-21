@@ -1,4 +1,4 @@
-Hi, I'm Manu63x
+Hi, I'm Manu63x\n
 I’m interested in game modding and programming
 I’m currently learning: 
 -C;
