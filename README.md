@@ -1,8 +1,13 @@
-Hi, I'm Manu63x\n
+Hi, I'm Manu63x
+
 I’m interested in game modding and programming
+
 I’m currently learning: 
+
 -C;
+
 -JAVA;
+
 I'm part of an amateur translation team called QPatch Team!
 Visit us at: https://www.instagram.com/qpatchitalia/
 
