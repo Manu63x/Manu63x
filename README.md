@@ -2,10 +2,11 @@
 Hi, I'm Manu63x and I'm a high school CS student.
 
 <h2>Hobbies and interests</h2>
-I’m interested in game modding and programming.
-I'm part of an amateur translation team called QPatch Team!
-Visit us at: https://www.instagram.com/qpatchitalia/
-
+<p>
+  I’m interested in game modding and programming.<br>
+  I'm part of an amateur translation team called QPatch Team!
+  Visit us at: https://www.instagram.com/qpatchitalia/
+</p>
 <h2>Languages</h2>
 I’m currently learning: 
 <ul>
