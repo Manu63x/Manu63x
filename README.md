@@ -10,11 +10,12 @@ Hi, I'm Manu63x and I'm a high school CS student.
 <h2>Languages</h2>
 I’m currently learning: 
 <ul>
-  <li>JAVA</li>
+  <li>C#</li>
 </ul>
 and I know the following programming languages:
 <ul>
   <li>C</li>
+  <li>JAVA</li>
 </ul>
 
 <!---
