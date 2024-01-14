@@ -11,11 +11,14 @@ Hi, I'm Manu63x and I'm a high school CS student.
 I’m currently learning: 
 <ul>
   <li>C#</li>
+  <li>PHP</li>
+  <li>MySQL</li>
 </ul>
-and I know the following programming languages:
+and I know the following languages:
 <ul>
   <li>C</li>
   <li>JAVA</li>
+  <li>HTML, CSS and Bootstrap</li>
 </ul>
 
 <!---
